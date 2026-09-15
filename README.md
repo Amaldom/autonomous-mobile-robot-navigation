@@ -6,7 +6,7 @@ The project was developed using Python, MobileSim, Mapper3, and Webots, with tes
 
 ⸻
 
-🚀 Project Overview
+•Project Overview
 
 Autonomous mobile robots must be able to navigate towards a goal while maintaining reliable movement and responding to obstacles in their environment.
 
@@ -22,7 +22,7 @@ The overall project demonstrates how planned navigation, visual perception, and 
 
 ⸻
 
-🤖 Robot Platform
+•Robot Platform
 
 The experiments used an Adept/MobileRobots Pioneer 3-DX differential-drive mobile robot.
 
@@ -46,7 +46,7 @@ Software
 
 ⸻
 
-🧭 Navigation Architecture
+• Navigation Architecture
 
 The main navigation task followed a sequential behaviour structure:
 
@@ -208,7 +208,7 @@ Webots Robot Controller
 
 ⸻
 
-⭐ A* Implementation Features
+• A* Implementation Features
 
 Euclidean Heuristic
 
@@ -276,7 +276,7 @@ The Webots controller reads the generated waypoints and commands the simulated P
 
 ⸻
 
-📊 Evaluation
+• Evaluation
 
 ### Target Tracking Results
 
@@ -295,7 +295,7 @@ The A* implementation was also evaluated in Webots. The generated path successfu
 
 ⸻
 
-🎥 Demonstrations
+• Demonstrations
 
 The repository contains demonstrations of:
 
@@ -307,7 +307,7 @@ Videos and screenshots are provided as project evidence and demonstrations of th
 
 ⸻
 
-🛠️ Technologies
+• Technologies
 
 Programming
 
@@ -345,7 +345,7 @@ Simulation & Mapping
 
 ⸻
 
-📁 Repository Structure
+• Repository Structure
 
 ```text
 autonomous-mobile-robot-navigation/
@@ -381,7 +381,7 @@ autonomous-mobile-robot-navigation/
 ```
 ⸻
 
-🔬 Key Learning Outcomes
+• Key Learning Outcomes
 
 This project provided practical experience in:
 
@@ -397,7 +397,7 @@ This project provided practical experience in:
 
 ⸻
 
-🚧 Limitations
+• Limitations
 
 The current implementation primarily targets known, static environments.
 
@@ -405,7 +405,7 @@ The colour-tracking approach also relies on detecting a predefined colour target
 
 ⸻
 
-🔮 Future Improvements
+• Future Improvements
 
 Potential extensions include:
 
@@ -421,7 +421,7 @@ Potential extensions include:
 
 ⸻
 
-👤 Author
+• Author
 
 Amal Dominic
 
@@ -430,6 +430,6 @@ University of Salford, UK
 
 ⸻
 
-📌 Project Context
+• Project Context
 
 This project was developed as part of postgraduate study in Robotics & Automation and has been reorganised into a technical portfolio project to demonstrate practical experience in autonomous mobile robotics, navigation, perception, sensing, path planning, simulation, and Python-based robot control.
